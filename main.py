@@ -50,7 +50,7 @@ def cd(zip_fs, dir):
 def show_history():
     for i, cmd in enumerate(history):
         print(f"{i + 1}: {cmd}")
-
+ 
 # Функция для изменения владельца файла
 def chown(owner, file, zip_fs):
     usr = users.get(owner)
