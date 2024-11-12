@@ -72,3 +72,12 @@
 
    ```bash
    python main.py
+
+
+   
+### Пример работы программы
+![image](https://github.com/user-attachments/assets/92a3fb7f-20c3-4f55-ab6a-b2e4d4b940e8)
+
+### Прогон тестов 
+![image](https://github.com/user-attachments/assets/dd4b8502-ef02-45b9-ae90-3d0b4342ccf0)
+
