@@ -99,11 +99,10 @@
 
 ```bash
 python -m unittest discover
-
-или
+```
 
 ```bash
 pytest main_test.py
-
+```
 ![image](https://github.com/user-attachments/assets/dd4b8502-ef02-45b9-ae90-3d0b4342ccf0)
 
